@@ -35,15 +35,9 @@
     <description>Web Console plugin for evaluating scripts</description>
 
     <scm>
-        <connection>
-            scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/scripting/script-console
-        </connection>
-        <developerConnection>
-            scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/scripting/script-console
-        </developerConnection>
-        <url>
-            http://svn.apache.org/viewvc/sling/trunk/contrib/scripting/script-console
-        </url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-console.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-console.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-scripting-console.git</url>
     </scm>
 
     <build>
