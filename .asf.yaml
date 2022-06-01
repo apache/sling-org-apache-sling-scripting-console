@@ -1,0 +1,7 @@
+github:
+  description: "Apache Sling Script Console (deprecated)"
+  homepage: "https://sling.apache.org"
+  labels:
+    - java
+    - sling
+    - deprecated
